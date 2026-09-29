@@ -406,3 +406,25 @@ Planned extensions include:
 **Current:** Core data platform, validation framework, MySQL analytics layer, Power BI semantic model, and five dashboard modules completed.
 
 **Next:** Dashboard visual polish, portfolio screenshots, enhanced documentation, and AI-enabled program-management capabilities.
+
+## Dashboard Gallery
+
+### Executive Overview
+
+![Executive Overview](images/01-executive-overview.png)
+
+### Delivery Performance
+
+![Delivery Performance](images/02-delivery-performance.png)
+
+### Release Management & Readiness
+
+![Release Management](images/03-release-management.png)
+
+### Risk & Dependency Management
+
+![Risk and Dependency Management](images/04-risk-dependency.png)
+
+### Governance & Strategic Execution
+
+![Governance and Strategic Execution](images/05-governance-strategic-execution.png)
