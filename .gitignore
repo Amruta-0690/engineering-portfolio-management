@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# Windows / OS files
+.DS_Store
+Thumbs.db
+
+# Generated datasets
+data/raw/
+data/raw_backup/
+data/processed/
+data/exports/
+
+# Development / recovery backups
+*_backup.py
+*_backup.sql
+
+# Power BI local project file
+*.pbix
